@@ -1,5 +1,7 @@
 # 📊 Scalping Analysis Bot
 
+# Download from this telegram channel : https://t.me/scalpingbottrading
+
 ---
 
 ## 📖 Overview
